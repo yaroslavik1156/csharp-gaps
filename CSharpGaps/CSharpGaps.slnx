@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01-types/01-types.csproj" />
   <Project Path="02-interfaces/02-interfaces.csproj" Id="ac652213-8f1a-46eb-9fc8-fd0082644d83" />
+  <Project Path="03-delegates/03-delegates.csproj" Id="879544d3-9fb8-43ee-b8d4-fde93231fecf" />
 </Solution>
